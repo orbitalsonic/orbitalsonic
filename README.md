@@ -63,8 +63,7 @@ Here are some of my featured Android libraries:
 
 ## 📊 GitHub Stats
 
-![Yaqoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbitalsonic\&show_icons=true\&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalsonic\&layout=compact)
+![Yaqoob's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=orbitalsonic&show_icons=true)
 
 ---
 
