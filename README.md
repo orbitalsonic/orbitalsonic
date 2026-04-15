@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Yaqoob
 
-🚀 **Associate Manager (Technical) | Android Engineer | Kotlin Specialist**
+🚀 **Computer Engineer | Sr. Android Developer | Kotlin Java Developer**
 📍 Pakistan
 
 ---
