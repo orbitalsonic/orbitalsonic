@@ -79,9 +79,13 @@ Here are some of my featured Android libraries:
 ## 🧠 What I Bring
 
 ✔ Strong system design thinking
+
 ✔ Production-level Android expertise
+
 ✔ Developer productivity mindset (tools, libraries, automation)
+
 ✔ Leadership + hands-on coding balance
+
 ✔ Focus on clean, maintainable, scalable code
 
 ---
