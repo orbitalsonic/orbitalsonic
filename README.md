@@ -42,7 +42,7 @@ Currently, I lead Android development initiatives—defining technical direction
 * Firebase (FCM, Analytics, Crashlytics)
 * REST APIs / Retrofit
 * Git & GitHub
-* Gradle (KTS)
+* Playstore
 
 ---
 
@@ -50,14 +50,14 @@ Currently, I lead Android development initiatives—defining technical direction
 
 Here are some of my featured Android libraries:
 
-* 🔹 [SonicMuslimCalendar](https://github.com/orbitalsonic/SonicMuslimCalendar) — Accurate Hijri calendar system
-* 🔹 [SonicInApp](https://github.com/orbitalsonic/SonicInApp) — In-app update & review helper
 * 🔹 [SonicFCM](https://github.com/orbitalsonic/SonicFCM) — Simplified Firebase Cloud Messaging
 * 🔹 [SonicOPT](https://github.com/orbitalsonic/SonicOPT) — OTP handling utilities
-* 🔹 [SonicCryptography](https://github.com/orbitalsonic/SonicCryptography) — Secure encryption utilities
+* 🔹 [SonicInApp](https://github.com/orbitalsonic/SonicInApp) — In-app update & review helper
 * 🔹 [SonicCountDownTimer](https://github.com/orbitalsonic/SonicCountDownTimer) — Lightweight timer utility
 * 🔹 [SonicColorPicker](https://github.com/orbitalsonic/SonicColorPicker) — Custom color picker component
 * 🔹 [Sonic Water Wave Animation](https://github.com/orbitalsonic/Sonic-Water-Wave-Animation) — UI animation library
+* 🔹 [SonicCryptography](https://github.com/orbitalsonic/SonicCryptography) — Secure encryption utilities
+* 🔹 [SonicMuslimCalendar](https://github.com/orbitalsonic/SonicMuslimCalendar) — Accurate Hijri calendar system
 
 ---
 
